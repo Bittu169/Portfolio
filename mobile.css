@@ -227,7 +227,7 @@ body {
     white-space: nowrap;
 }
 #my-full-name::after {
-    content: "Aditya Sadhukhan";
+    content: "Bittu Mondal";
     position: absolute;
     display: inline;
     left: 0.6%;
