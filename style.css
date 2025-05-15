@@ -238,10 +238,11 @@ body {
     height: 100%;
 }
 #picto{
-    width: 400px;
-    margin-left: 40%;
-    /* align-items: right;
-    justify-content: right; */
+    width: 15em;
+    margin-top: 150px;
+    margin-left: 22%;
+    align-items: right;
+    justify-content: right; 
 }
 /* Hobbies */
 #hobbies-con {
