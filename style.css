@@ -643,7 +643,7 @@ textarea {
 
 
 .eng-front {
-    background: url(./img/e.jpg) center center/cover;
+    background: url(img/a.jpg) center center/cover;
 } 
 
 .grad-front {
@@ -666,4 +666,5 @@ textarea {
 .back-to-top {
     display: none;
 }
+
 
