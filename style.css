@@ -642,9 +642,9 @@ textarea {
 }
 
 
-/* .eng-front {
-    background: url(./img/eng.jpg) center center/cover;
-} */
+.eng-front {
+    background: url(./img/e.jpg) center center/cover;
+} 
 
 .grad-front {
     background: url(./img/grad.jpg) center center/cover;
@@ -666,3 +666,4 @@ textarea {
 .back-to-top {
     display: none;
 }
+
